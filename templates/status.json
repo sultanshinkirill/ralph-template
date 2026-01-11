@@ -1,0 +1,15 @@
+{
+    "status": "idle",
+    "currentTask": null,
+    "completedTasks": 0,
+    "totalTasks": 0,
+    "lastLoop": null,
+    "verifyStatus": {
+        "safetyCheck": null,
+        "typecheck": null,
+        "e2e": null,
+        "build": null
+    },
+    "errors": [],
+    "blockers": []
+}
